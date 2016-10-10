@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-redirect-from'
-gem 'html-proofer', '~3.0.0'
+gem 'html-proofer', '~>3.0.0'
